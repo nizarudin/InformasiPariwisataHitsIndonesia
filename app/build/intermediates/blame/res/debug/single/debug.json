@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14_activity_main.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout-v14\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nyale.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\nyale.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_tentang_layout.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\tentang_layout.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_web_view2_layout.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\web_view2_layout.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pater.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\pater.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_wisata_alam.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\header_wisata_alam.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_nama_alat.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-hdpi\\btn_nama_alat.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_box_definisi.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\box_definisi.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hotel.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\hotel.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tombol_back.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\tombol_back.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nama_wisata_ket.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\nama_wisata_ket.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bawng.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\bawng.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_wisata_alam.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\list_wisata_alam.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mieaceh.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\mieaceh.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_esgul_launch.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-hdpi\\esgul_launch.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_footer_info_wisata_layout.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\footer_info_wisata_layout.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_background_ket_wst.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\background_ket_wst.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mndlk.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\mndlk.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wadaslintang.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\wadaslintang.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sombori.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\sombori.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_go_to_wisata.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-hdpi\\btn_go_to_wisata.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_wisata_kuliner.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\info_wisata_kuliner.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_header_wisata_alam.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\header_wisata_alam.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_wisata_kuliner.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\header_wisata_kuliner.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_box_info_wisata.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\box_info_wisata.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_apksplash.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\apksplash.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sukerto.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\sukerto.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_wisata_budaya.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\info_wisata_budaya.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ke_wisata.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\ke_wisata.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_header_wisata_kuliner.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\header_wisata_kuliner.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rendang.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\rendang.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_footer_ke_wisata.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\footer_ke_wisata.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\menu_web_view.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\menu\\web_view.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_budaya.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\budaya.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_next.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-hdpi\\btn_next.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_wisata_budaya.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\item_wisata_budaya.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_previous.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-hdpi\\btn_previous.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_header_info_wisata.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\header_info_wisata.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_wisata_layout.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\list_wisata_layout.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_wisata_budaya.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\header_wisata_budaya.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mie_ongklok.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\mie_ongklok.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tekoj.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\tekoj.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_button_go_to_listwisata_layout.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\button_go_to_listwisata_layout.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_peta.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\peta.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kpser.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\kpser.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_info_wisata.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\header_info_wisata.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_wisata_kuliner.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\item_wisata_kuliner.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tentang.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\tentang.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_esgul.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\esgul.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_wisata_kuliner.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\list_wisata_kuliner.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_utama.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\menu_utama.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_layout.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_header_info.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\header_info.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_wisata_alam.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\info_wisata_alam.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_footer_ket_wisata_layout.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\footer_ket_wisata_layout.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_kuliner.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\kuliner.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_telaga_menjer.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\telaga_menjer.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gudeg.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\gudeg.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_utama.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\menu\\menu_utama.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_labajo.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\labajo.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_listview_style.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-hdpi\\listview_style.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_header_wisata_budaya.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\header_wisata_budaya.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_frame_gambar.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\frame_gambar.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_esgul.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xhdpi\\esgul.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_layout.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\splash_layout.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_show.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\image_show.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wisata.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\wisata.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_frame_image_info_wisata.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\frame_image_info_wisata.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nama_wisata.png.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-xxhdpi\\nama_wisata.png"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_wisata_alam.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\item_wisata_alam.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_ket_wisata.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\ket_wisata.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_toba.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\toba.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_web_view_layout.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\web_view_layout.xml"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_esgul.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\esgul.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_raam.jpg.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\drawable-mdpi\\raam.jpg"
+    },
+    {
+        "merged": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_wisata_budaya.xml.flat",
+        "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\layout\\list_wisata_budaya.xml"
+    }
+]

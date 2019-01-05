@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,4,16,17,3,7,21,20,18,19,5,8,9,10,22,14,15,11,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "224,118,1294,1357,56,268,1650,1570,1414,1492,171,333,598,918,1722,1183,1230,1087,1851,1907",
+                        "endLines": "6,4,16,17,3,7,21,20,18,19,5,8,9,10,24,14,15,11,25,26",
+                        "endColumns": "43,52,62,56,61,64,71,79,77,77,52,264,319,168,13,46,63,56,55,57",
+                        "endOffsets": "263,166,1352,1409,113,328,1717,1645,1487,1565,219,593,913,1082,1846,1225,1289,1139,1902,1960"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,22,23,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "217,261,314,377,434,496,561,633,713,791,869,922,1187,1507,1676,1805,1852,1916,1973,2029",
+                        "endLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,22,23,24,25,26",
+                        "endColumns": "43,52,62,56,61,64,71,79,77,77,52,264,319,168,13,46,63,56,55,57",
+                        "endOffsets": "256,309,372,429,491,556,628,708,786,864,917,1182,1502,1671,1800,1847,1911,1968,2024,2082"
+                    }
+                },
+                {
+                    "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "89,147,203",
+                        "endColumns": "57,55,47",
+                        "endOffsets": "142,198,246"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,113,169",
+                        "endColumns": "57,55,47",
+                        "endOffsets": "108,164,212"
+                    }
+                },
+                {
+                    "source": "D:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,20,31",
+                        "startColumns": "4,4,1,4",
+                        "startOffsets": "245,569,736,1306",
+                        "endLines": "12,17,30,41",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "531,724,1297,1876"
+                    },
+                    "to": {
+                        "startLines": "27,34,37,48",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2087,2378,2538,3104",
+                        "endLines": "33,36,47,58",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "2373,2533,3099,3674"
+                    }
+                }
+            ]
+        }
+    ]
+}

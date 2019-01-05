@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Tue Nov 13 22:40:02 ICT 2018
+1.base=D\:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\assets\\debug
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=D\:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+3.set=ASSET
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=fonts/Roboto-Condensed.ttf
+count=4
+1.set=ASSET
+0.path=fonts/MYRIADAS.TTF
+3.base=D\:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\assets\\debug
+0.set=ASSET
+0.base=D\:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=fonts/DroidSansMono.ttf

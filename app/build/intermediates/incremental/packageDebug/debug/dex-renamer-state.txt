@@ -1,0 +1,4 @@
+#Tue Nov 13 22:40:02 ICT 2018
+base.0=D\:\\PERKULIAHAN\\SEMESTER 7\\Validasi Perangkat Lunak Mobile\\Project\\InformasiPariwisataHitsIndonesia\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

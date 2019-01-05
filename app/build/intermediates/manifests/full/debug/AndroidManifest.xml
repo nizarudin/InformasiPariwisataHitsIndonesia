@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.infopariwisata"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+
+    <application
+        android:allowBackup="false"
+        android:debuggable="true"
+        android:icon="@drawable/esgul"
+        android:label="AJComm" >
+        <activity
+            android:name="com.infopariwisata.Splash"
+            android:label="AJComm Teknik Informatika" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.infopariwisata.MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="com.infopariwisata.AWAL" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.infopariwisata.MenuUtamaActivity" />
+        <activity android:name="com.infopariwisata.Tentang" />
+        <activity android:name="com.infopariwisata.ListTempatWisata" />
+        <activity android:name="com.infopariwisata.ListBudaya" />
+        <activity android:name="com.infopariwisata.ListKuliner" />
+        <activity android:name="com.infopariwisata.KetWisata" />
+        <activity android:name="com.infopariwisata.Hotel" />
+        <activity android:name="com.infopariwisata.Peta" />
+    </application>
+
+</manifest>
